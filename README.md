@@ -11,7 +11,7 @@ This application only shows the iTunes' movie catalog.
    * Artwork
    * Long Description
 2. Displays all the available genre
-3. Sort per genre
+3. Sort movie list using selected genre
 3. Displays Recently Viewed Movies
 4. Able to handle negative scenario such us internet connectivity issue/ no internet at all.
 
@@ -39,7 +39,7 @@ Stated here the description of important files and structure
   1. ```activity``` - serves as the canvas
   2. ```fragment``` - the main user interface (to make it reusable)
   3. ```viewmodel``` - retrieving & processing of data
-  * Creating new adapter must have separate these
+  * Creating new adapter must separate these
   1. ```adapter``` - to prepare for populating data and inflating the layout
   2. ```viewholder``` - responsible for applying the ui content of the view
 
@@ -52,7 +52,7 @@ Stated here the description of important files and structure
   * ```values```
   1. ```dimens``` - used to have standardized ui dimensions (margin, padding, etc)
   2. ```colors``` - added custom colors
-  3. ```strings``` - no hardcoded strings in xml
+  3. ```strings``` - no hardcoded strings in xml / classes
   4. ```style``` - all the ui element reusable custom style declared here
   * ```anim``` - created basic animation for screen transition
   * ```font``` - used custom font: nunitosans
