@@ -44,14 +44,6 @@ android {
         }
     }
 
-    signingConfigs {
-        config {
-            keyAlias 'meowvies'
-            keyPassword 'm3owvi3s'
-            storeFile file('meowvies')
-            storePassword 'm3owvi3s'
-        }
-    }
 }
 
 dependencies {
