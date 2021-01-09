@@ -46,4 +46,4 @@ The application used **Room** as persistence library
 1. iTunes provides a low-res artwork (artwork100 - 100x100) so gomenasai for the pixelated thumbnails/image.
 
 ### APK
-![Downloadable APK](https://drive.google.com/drive/folders/10li16LNbdkpxZtcmrvAkOy9g1tDg8mr_?usp=sharing)
+![APK](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F10li16LNbdkpxZtcmrvAkOy9g1tDg8mr_%3Fusp%3Dsharing&qzone=1&margin=0&size=150x150&ecc=L)
