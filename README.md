@@ -1,5 +1,6 @@
 # Meowvies
 This application only shows the iTunes' movie catalog.
+(It's called meowvies bc i love cats and the for pun (fun) huhu)
 
 ### Features
 1. Displays catalog from [iTunes Movie](https://itunes.apple.com/search?term=star&amp;country=au&amp;media=movie&amp;all)
