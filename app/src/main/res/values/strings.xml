@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Meowvies</string>
+
+    <!--  Title/Header  -->
+    <string name="title_recent">Recently Viewed</string>
+    <string name="title_genre">All Genres</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_movie_info">Movie Info</string>
+
+    <!--  Informative labels  -->
+    <string name="info_logo">Meowvies Logo</string>
+    <string name="info_background">Movie\'s Information Background Image</string>
+    <string name="info_movie">Movie Image</string>
+
+    <!--  Action labels  -->
+    <string name="action_retry">Retry</string>
+    <string name="action_later">Maybe Later</string>
+
+    <!--  Error Messages  -->
+    <string name="error_unable_to_connect">Unable to connect to the server.</string>
+    <string name="error_unable_to_display_movies">Nothing\'s here. <b><u>Retry</u></b></string>
+
+</resources>
